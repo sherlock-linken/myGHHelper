@@ -1,0 +1,2 @@
+# myGHHelper
+GH boardgame helper
